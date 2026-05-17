@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Tambitkar
 
-<!--
-**SumitTambitkar/SumitTambitkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | AI/ML & Data Analytics Enthusiast | Building Smart Applications  
+🤖 Building AI-powered applications using Python & Streamlit  
+🚀 Passionate about Artificial Intelligence and Data Analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Work
+- AI Career Coach Agent using Python and Streamlit
+
+---
+
+## 🌱 Currently Learning
+- AI/ML (Artificial Intelligence & Machine Learning)
+- Data Analytics
+- Python for Data Analytics
+
+---
+
+## 👯 Collaboration
+- Open to collaborate on AI/ML and Data Analytics projects
+
+---
+
+## 🤝 Help Needed With
+- Machine Learning concepts
+- Data Analytics projects
+
+---
+
+## 💬 Ask Me About
+- Python 🐍
+- Streamlit ⚡
+- AI Projects 🤖
+- Data Analytics 📊
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- HTML/CSS
+- Git & GitHub
+
+---
+
+## 📂 Projects
+- 🤖 AI Career Coach Agent (Python & Streamlit)
+- 📊 Data Analytics Learning Projects
+
+---
+
+## 📫 Contact Me
+- Email: tambitkarsumit8563@gmail.com  
+- GitHub: https://github.com/SumitTambitkar  
+
+---
+
+⭐ Always learning, building, and improving!
